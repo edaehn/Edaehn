@@ -1,6 +1,6 @@
 ### Hi! I am Elena. 👋
 
-I like to travel, dance, read and think. My passion is to code and learn new things about life, nature, music, and technology. I have a work experience in teaching, coding, ERP support, and research. My [PhD thesis](https://www.ros.hw.ac.uk/handle/10399/3987) is in CS with a focus on adaptive web applications.
+I like to travel, dance, read and think. My passion is to code and learn new things about life, nature, music, and technology. I have a work experience in teaching, coding, ERP support, and research. My PhD ([thesis](https://www.ros.hw.ac.uk/handle/10399/3987)) is in CS with a focus on adaptive web applications.
 
 Recently, I have been programming in Python and discovering deep learning with TensorFlow. I think that AI is the future that we have to invest in while keeping humanity's needs in mind.
 
