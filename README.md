@@ -6,9 +6,11 @@ Recently, I have been programming in Python and discovering deep learning with T
 
 I share my thoughts and learning process at [daehnhardt.com](daehnhardt.com) and [Twitter](https://twitter.com/ElenaDaehnhardt). I look forward to new ideas, networking, and collaboration on exciting projects. 
 
+<!--
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edaehn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
