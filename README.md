@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi! I am Elena. 👋
+
+I like to travel, dance, read and think. My passion is to code and learn new things in life and technology. I have a work experience in teaching, coding, ERP support, and research. My PhD is in CS with a focus on adaptive web applications.
+
+Recently, I have been programming in Python and discovering deep learning with TensorFlow. I think that AI is the future that we have to invest in while keeping humanity's needs in mind.
+
+I share my thoughts and learning process at [daehnhardt.com](daehnhardt.com) and [Twitter](https://twitter.com/ElenaDaehnhardt). I look forward to new ideas, networking, and collaboration on exciting projects. 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edaehn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
-**edaehn/Edaehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
