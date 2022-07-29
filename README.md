@@ -6,7 +6,7 @@ Recently, I have been programming in Python and discovering deep learning with T
 
 I share my thoughts and learning process at [daehnhardt.com](https://daehnhardt.com) and [Twitter](https://twitter.com/ElenaDaehnhardt). I look forward to new ideas, networking, and collaboration on exciting projects. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaehn&layout=compact&theme=radical)](https://github.com/edaehn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaehn&layout=compact&theme=algolia)](https://github.com/edaehn/github-readme-stats)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=1050320)
