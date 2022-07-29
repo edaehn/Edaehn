@@ -6,14 +6,13 @@ Recently, I have been programming in Python and discovering deep learning with T
 
 I share my thoughts and learning process at [daehnhardt.com](https://daehnhardt.com) and [Twitter](https://twitter.com/ElenaDaehnhardt). I look forward to new ideas, networking, and collaboration on exciting projects. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaehn&layout=compact&theme=github_dark&count_private=true)](https://github.com/edaehn/github-readme-stats)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=1050320)
 
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaehn&layout=compact&theme=radical)](https://github.com/edaehn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaehn&layout=compact&theme=github_dark&count_private=true)](https://github.com/edaehn/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edaehn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
