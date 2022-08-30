@@ -9,7 +9,7 @@ I share my thoughts and learning process at [daehnhardt.com](https://daehnhardt.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=edaehn&theme=github_dark&show_icons=true)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=edaehn&theme=github_dark&hide_border=false)](https://github-readme-streak-stats.herokuapp.com)
+![](https://github-readme-streak-stats.herokuapp.com/?user=edaehn&theme=github_dark&hide_border=false)](https://github-readme-streak-stats.herokuapp.com)
 
 ![](https://hit.yhype.me/github/profile?user_id=1050320)
 
